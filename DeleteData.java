@@ -1,5 +1,5 @@
 
-/* JDBC program to insert product data into database*/
+/* JDBC program to accept prodid from user and  delete product data from database*/
 import java.sql.*;
 import java.util.*;
 
